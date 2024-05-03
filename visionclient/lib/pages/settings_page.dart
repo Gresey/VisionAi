@@ -42,7 +42,7 @@ class SettingsScreen extends StatelessWidget {
                   child: DeviceStatusContainer(
                     icon: Icons.speaker_group_outlined,
                     heading: 'Device Name',
-                    subheading: 'Drishti',
+                    subheading: 'Vision AI',
                   ),
                 ),
                 SizedBox(width: 16),

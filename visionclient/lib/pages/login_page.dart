@@ -47,7 +47,7 @@ class _LoginPageState extends State<LoginPage> {
           context,
           MaterialPageRoute(
               builder: (context) => MyHomePage(
-                    title: 'Drishti',
+                    title: 'Vision AI',
                   )),
         );
 
@@ -80,7 +80,7 @@ class _LoginPageState extends State<LoginPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Drishti',
+              'Vision AI',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 24.0,
