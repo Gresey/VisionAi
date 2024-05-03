@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="Drishti Volunteer Connect"
+        android:label="Vision Volunteer Connect"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
