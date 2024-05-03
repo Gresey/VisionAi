@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Vision AI ',
       theme: ThemeData(
         colorScheme:
             ColorScheme.fromSwatch().copyWith(secondary: Colors.deepPurple),
@@ -44,7 +44,7 @@ class _MyAppState extends State<MyApp> {
         fontFamily: "Cairo",
       ),
       home: MyHomePage(
-        title: 'Drishti Volunteer App',
+        title: 'Vision AI Volunteer App',
         ipAddress: _ipAddress,
       ),
       debugShowCheckedModeBanner: false,
