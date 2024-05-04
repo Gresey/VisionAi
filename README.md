@@ -72,9 +72,16 @@ To help with navigating, people can connect with visually challenged people with
   <img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/992799f3-c247-4124-bba9-b93776df06ab" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
   <img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/c30eef73-1863-4c2d-80fa-3b2f2692b71a" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
 </div>
+
 ## Vision AI Client App  
- <div> <img src="https://github.com/mukundsolanki/Vision AI/blob/0347e8f7b1c3843125d6b8c4500f6bca106e397f/Vision AIclient/assets/UI-3.gif" alt="UI_1" width="250" height="500">
+<div style="display: flex; justify-content: space-around">
+   <img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/f9d026c4-9a93-4281-9679-59a4be52a9c2" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
+  <img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/af1f1fc2-b51e-47c4-8b73-f3f1401e23c7" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
+  <img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/d3de0f7f-e5a0-4600-a3f8-11718fd438fa" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
+ 
 </div>
+
+
 
 
 ## Economizing:
