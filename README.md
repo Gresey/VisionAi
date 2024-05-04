@@ -1,7 +1,7 @@
 # **Vision AI**
 
-<img src="![image](https://github.com/mukundsolanki/VisionAi/assets/113979215/0094c294-52f8-4843-928b-048776fd0722)
-" alt="ui3" width="100%" >
+<img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/0094c294-52f8-4843-928b-048776fd0722" alt="ui3" width="100%">
+
 
 #### "_Empowering the blind to navigate a sightless world – because every journey begins with a step, even if taken in the dark._"
 
@@ -69,9 +69,9 @@ To help with navigating, people can connect with visually challenged people with
 
 ## Volunteer App UI
 <div style="display: flex; justify-content: space-around">
-  <img src="![Screenshot_20240504_102311](https://github.com/mukundsolanki/VisionAi/assets/113979215/992799f3-c247-4124-bba9-b93776df06ab)" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
-  <img src="![Screenshot_20240504_102305](https://github.com/mukundsolanki/VisionAi/assets/113979215/c30eef73-1863-4c2d-80fa-3b2f2692b71a)" alt="UI_1" style="margin-right: 10px;" width="250" height="500"></div>
-  
+  <img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/992799f3-c247-4124-bba9-b93776df06ab" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
+  <img src="https://github.com/mukundsolanki/VisionAi/assets/113979215/c30eef73-1863-4c2d-80fa-3b2f2692b71a" alt="UI_1" style="margin-right: 10px;" width="250" height="500">
+</div>
 ## Vision AI Client App  
  <div> <img src="https://github.com/mukundsolanki/Vision AI/blob/0347e8f7b1c3843125d6b8c4500f6bca106e397f/Vision AIclient/assets/UI-3.gif" alt="UI_1" width="250" height="500">
 </div>
