@@ -36,7 +36,7 @@ class DownArrowDialog extends StatelessWidget {
               var response = await http.post(
                 //  Uri.parse('http://192.168.127.246:8080/downward-arrow'),
 
-                Uri.parse('http://192.168.50.246:8080/downward-arrow'),
+                Uri.parse('http://192.168.67.246:8080/downward-arrow'),
                 body: {'text': text},
               );
 

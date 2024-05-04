@@ -35,7 +35,7 @@ class RightArrowDialog extends StatelessWidget {
               var response = await http.post(
                 // Uri.parse('http://192.168.127.246:8080/right-arrow'),
 
-                Uri.parse('http://192.168.50.246:8080/right-arrow'),
+                Uri.parse('http://192.168.67.246:8080/right-arrow'),
                 body: {'text': text},
               );
 

@@ -72,7 +72,7 @@ class _VideoConnectScreenState extends State<VideoConnectScreen> {
       // final response = await http.get(Uri.parse(
       //     "http://192.168.95.67:8080/get_location")); //backend this machine
       final response = await http.get(Uri.parse(
-          "http://192.168.50.246:8080/get_location")); //backend this machine
+          "http://192.168.67.246:8080/get_location")); //backend this machine
 
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
@@ -100,7 +100,7 @@ class _VideoConnectScreenState extends State<VideoConnectScreen> {
       // final response =
       //     await http.get(Uri.parse("http://192.168.95.67:8080/user_info"));
       final response =
-          await http.get(Uri.parse("http://192.168.50.246:8080/user_info"));
+          await http.get(Uri.parse("http://192.168.67.246:8080/user_info"));
 
       if (response.statusCode == 200) {
         final data = json.decode(response.body);

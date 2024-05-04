@@ -57,7 +57,7 @@ class _CheckpointDialogState extends State<CheckpointDialog> {
 
   Future<void> _sendDataToServer(String data) async {
     //  var url = Uri.parse('http://192.168.127.246:8080/checkpoint');
-    var url = Uri.parse('http://192.168.50.246:8080/checkpoint');
+    var url = Uri.parse('http://192.168.67.246:8080/checkpoint');
     var response = await http.post(
       url,
       body: {'data': data},

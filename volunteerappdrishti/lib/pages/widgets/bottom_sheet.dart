@@ -57,7 +57,7 @@ class _BottomModalSheetState extends State<BottomModalSheet> {
   }
 
   Future<void> sendAudioToServer(String filePath) async {
-    final url = 'http://192.168.50.103:5000/volunteer_audio'; //pi address
+    final url = 'http://192.168.67.103:5000/volunteer_audio'; //pi address
 
     final file = File(filePath);
     if (!file.existsSync()) {
